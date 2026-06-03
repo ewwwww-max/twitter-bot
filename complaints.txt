@@ -1,0 +1,14 @@
+2026-06-03 15:56:44 - FAILED TO TWEET: ⚠️ ISP Performance Alert: Getting 132.97Mbps down / 114.31Mbps up against a promised 1000Mbps. Ping: 32.1ms. #ISP #InternetSpeed #NetworkMonitoring | Error: 402 Payment Required
+Your enrolled account [2061904006922792961] does not have any credits to fulfill this request.
+2026-06-03 15:58:34 - ⚠️ ISP Performance Alert: Getting 126.03Mbps down / 118.41Mbps up against a promised 1000Mbps. Ping: 27.95ms. #ISP #InternetSpeed #NetworkMonitoring
+2026-06-03 16:02:05 - FAILED TO TWEET: ⚠️ ISP Performance Alert: Getting 137.15Mbps down / 114.07Mbps up against a promised 1000Mbps. Ping: 32.66ms. #ISP #InternetSpeed #NetworkMonitoring | Error: 402 Payment Required
+Your enrolled account [2061904006922792961] does not have any credits to fulfill this request.
+2026-06-03 16:03:57 - ⚠️ ISP Performance Alert: Getting 109.8Mbps down / 111.83Mbps up against a promised 1000Mbps. Ping: 29.15ms. #ISP #InternetSpeed #NetworkMonitoring
+2026-06-03 16:07:27 - FAILED TO TWEET: ⚠️ ISP Performance Alert: Getting 121.43Mbps down / 112.64Mbps up against a promised 1000Mbps. Ping: 30.08ms. #ISP #InternetSpeed #NetworkMonitoring | Error: 402 Payment Required
+Your enrolled account [2061904006922792961] does not have any credits to fulfill this request.
+2026-06-03 16:09:18 - ⚠️ ISP Performance Alert: Getting 120.59Mbps down / 114.58Mbps up against a promised 1000Mbps. Ping: 32.89ms. #ISP #InternetSpeed #NetworkMonitoring
+2026-06-03 16:12:49 - FAILED TO TWEET: ⚠️ ISP Performance Alert: Getting 115.27Mbps down / 110.73Mbps up against a promised 1000Mbps. Ping: 30.76ms. #ISP #InternetSpeed #NetworkMonitoring | Error: 402 Payment Required
+Your enrolled account [2061904006922792961] does not have any credits to fulfill this request.
+2026-06-03 16:14:40 - ⚠️ ISP Performance Alert: Getting 137.8Mbps down / 92.38Mbps up against a promised 1000Mbps. Ping: 32.6ms. #ISP #InternetSpeed #NetworkMonitoring
+2026-06-03 16:18:11 - FAILED TO TWEET: ⚠️ ISP Performance Alert: Getting 127.23Mbps down / 116.61Mbps up against a promised 1000Mbps. Ping: 25.54ms. #ISP #InternetSpeed #NetworkMonitoring | Error: 402 Payment Required
+Your enrolled account [2061904006922792961] does not have any credits to fulfill this request.
